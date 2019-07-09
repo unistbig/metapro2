@@ -1,0 +1,1 @@
+artp.o: ../artp.cpp

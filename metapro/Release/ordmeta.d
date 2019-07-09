@@ -1,0 +1,1 @@
+ordmeta.o: ../ordmeta.cpp

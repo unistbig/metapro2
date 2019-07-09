@@ -1,0 +1,1 @@
+lancaster.o: ../lancaster.cpp

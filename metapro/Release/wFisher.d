@@ -1,0 +1,1 @@
+wFisher.o: ../wFisher.cpp
